@@ -1,15 +1,15 @@
 # Hi, I'm Abdulahad Iltaf 👋
 
 ### AI Engineer | LLM Specialist | MLOps Enthusiast 
-[cite_start]**Final Year AI Student at FAST NUCES Islamabad** [cite: 32, 37]
+**Final Year AI Student at FAST NUCES Islamabad**
 
 ---
 
 ## 🚀 About Me
-- [cite_start]🛠️ Currently architecting a production-grade **HR Chatbot** using **FastAPI** and **Redis**[cite: 7, 9].
-- [cite_start]🧠 Researching **U-KAN Flow**, a novel architecture for efficient image generation in low-data regimes[cite: 26].
-- [cite_start]📂 Building **CodeNav**, an autonomous repository intelligence engine using **GraphRAG**[cite: 23, 24].
-- [cite_start]🌍 Developing multilingual voice and chat agents for global clients[cite: 11, 13].
+- 🛠️ **Currently architecting** a production-grade HR Chatbot using FastAPI and Redis.
+- 🧠 **Researching U-KAN Flow**, a novel architecture for efficient image generation in low-data regimes.
+- 📂 **Building CodeNav**, an autonomous repository intelligence engine using GraphRAG.
+- 🌍 **Developing** multilingual voice and chat agents for global clients.
 
 ---
 
@@ -17,11 +17,11 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **GenAI & Agents** | [cite_start]LangGraph, CrewAI, RAG Pipelines, LORA/QLORA, vLLM [cite: 43] |
-| **Deep Learning** | [cite_start]PyTorch, TensorFlow, Transformers (ViT, BERT), Diffusion Models [cite: 44] |
-| **MLOps** | [cite_start]Docker, Kubernetes, CI/CD (GitHub Actions), MLflow, Azure [cite: 45] |
-| **Databases** | [cite_start]Neo4j (GraphRAG), ChromaDB, Redis, SQL/NoSQL [cite: 46] |
-| **Languages** | [cite_start]Python (Advanced), C++, JavaScript, SQL [cite: 47] |
+| **GenAI & Agents** | LangGraph, CrewAI, RAG Pipelines, LORA/QLORA, vLLM |
+| **Deep Learning** | PyTorch, TensorFlow, Transformers (ViT, BERT), Diffusion Models |
+| **MLOps** | Docker, Kubernetes, CI/CD (GitHub Actions), MLflow, Azure |
+| **Databases** | Neo4j (GraphRAG), ChromaDB, Redis, SQL/NoSQL |
+| **Languages** | Python (Advanced), C++, JavaScript, SQL |
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 <p align="center">
-  [cite_start]<i>"Bridging the gap between academic research and production-grade software." [cite: 5]</i>
+  <i>"Bridging the gap between academic research and production-grade software."</i>
 </p>
