@@ -1,125 +1,219 @@
-<h1 align="center">Abdulahad Iltaf</h1>
-<p align="center">
-AI/ML Engineer • Agentic AI • RAG Systems • Computer Vision • MLOps
-</p>
+<div align="center">
 
-<p align="center">
-Final Year Artificial Intelligence Student at FAST NUCES Islamabad
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  INITIALIZING AGENT...  ██████████████████████████████████  100%    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
----
+</div>
 
-## About Me
+<div align="center">
 
-I build production-grade AI systems across the full lifecycle — dataset engineering, fine-tuning, agentic workflows, backend integration, and deployment.
+# `ABDULAHAD ILTAF`
 
-Currently working on:
-- Production HR chatbot with FastAPI, Redis, and RAG pipelines
-- Autonomous repository intelligence system using GraphRAG + Neo4j
-- Multi-agent AI workflows with LangGraph and CrewAI
-- Efficient generative AI architectures for low-data environments
+### ⟨ End-to-End AI/ML Engineer ⟩
 
-Interests:
-`Agentic AI` • `LLMs` • `GraphRAG` • `Computer Vision` • `Generative AI` • `MLOps`
+*Building systems that think, reason, and deploy.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulahad-iltaf79)
+[![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/Abdulahad79)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/abdulahad79)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iltafabdulahad@gmail.com)
 
-## Featured Projects
-
-### CodeNav — Autonomous Repository Intelligence
-GraphRAG-powered developer assistant for large codebases using Neo4j.
-
-- Automated technical documentation generation
-- Dependency graph extraction
-- Interactive architecture visualization
-- Context-aware codebase Q&A chatbot
-
-**Stack:** GraphRAG, Neo4j, FastAPI, LangChain, LLMs
+</div>
 
 ---
 
-### LaunchMind — Autonomous Startup Multi-Agent System
-A multi-agent ecosystem simulating complete startup operations.
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulahadIltaf&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
-- PM, Developer, QA, and Marketing agents
-- Recursive CEO-QA self-correction loop
-- Automated GitHub PR workflows
-- Multi-channel marketing automation
+### `> whoami`
 
-**Stack:** LangGraph, Redis, Groq, FastAPI
+```python
+class AbdulahadIltaf:
+    role      = "AI/ML Engineer"
+    location  = "Rawalpindi, Pakistan"
+    education = "B.Sc. AI — FAST NUCES (2026)"
 
----
+    focus = [
+        "Agentic & Multi-Agent Systems",
+        "RAG Pipelines & GraphRAG",
+        "LLM Fine-tuning & Inference",
+        "MLOps & Cloud Deployment",
+    ]
 
-### KingsGuard — Multi-Agent Security Framework
-Security-focused AI defense architecture for autonomous systems.
+    currently_building = [
+        "CodeNav    → GraphRAG over codebases (FYP)",
+        "HR Chatbot → FastAPI + Redis, enterprise RAG",
+        "U-KAN Flow → Novel generative architecture",
+    ]
+```
 
-- Prompt injection prevention
-- Intent classification with BERT
-- VAE anomaly detection
-- Bayesian risk monitoring
-- Sandboxed execution pipeline
-
-**Stack:** BERT, CrewAI, Bayesian Systems, PyTorch
-
----
-
-### U-KAN Flow — Efficient Image Generation
-Research architecture combining KANs with Rectified Flow for low-data image generation.
-
-- Spectral-Spatial Trifecta Loss
-- Improved KID scores on CIFAR-10 subsets
-- Efficient generative modeling under data constraints
-
-**Focus:** Generative AI Research, Diffusion Systems
+<br clear="right"/>
 
 ---
 
-## Technical Stack
+## ⚡ Active Systems
 
-### AI & Agentic Systems
-LangGraph • CrewAI • AutoGen • RAG Pipelines • GraphRAG • Prompt Engineering • Tool-Use Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Generative AI & LLMs
-LLaMA • GPT-4 • Mistral • LoRA/QLoRA • vLLM • Ollama • Transformers
+### 🧠 CodeNav — FYP
+**Autonomous Repository Intelligence**
 
-### Deep Learning & Computer Vision
-PyTorch • TensorFlow • CNNs • ViTs • BERT • Diffusion Models • Multispectral Analysis
+AI assistant over entire codebases using GraphRAG (Neo4j) to auto-generate technical documentation, dependency maps, and interactive architecture visualizations. Includes a specialized code-comprehension chatbot for developer Q&A.
 
-### MLOps & Deployment
-Docker • Kubernetes • GitHub Actions • MLflow • Azure • AWS • Linux
+`GraphRAG` `Neo4j` `LLMs` `LangGraph`
 
-### Backend & Infrastructure
-FastAPI • Flask • Redis • PostgreSQL • Neo4j • ChromaDB • WebSockets
+</td>
+<td width="50%" valign="top">
+
+### 🔬 U-KAN Flow — Research
+**Efficient Image Generation**
+
+Novel architecture merging Kolmogorov-Arnold Networks with Rectified Flow and a Spectral-Spatial Trifecta Loss. Achieved **KID 0.096** on CIFAR-10 10% subset — **34%↑** over MLP baseline, **51%↑** over standard KAN.
+
+`PyTorch` `KAN` `Diffusion` `Generative AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 HR Chatbot — Production
+**Enterprise RAG at Scale**
+
+FastAPI + Redis chatbot handling concurrent multi-user sessions with memory isolation, personalized data retrieval, and RAG pipelines for document-grounded HR policy reasoning across a live enterprise user base.
+
+`FastAPI` `Redis` `RAG` `Multi-user`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Multilingual Voice Agent — Freelance
+**EN / SL / UR / AR**
+
+Production voice HR chatbot with automated SQL backend sync, low-latency chat, and real-time admin dashboards for centralized AI deployment monitoring. Delivered for international clients.
+
+`TTS/STT` `SQL` `Real-time` `Dashboards`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulahadIltaf&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulahadIltaf&hide_border=true" width="48%" />
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🤖 LaunchMind**
+Autonomous Startup MAS
+
+Multi-agent system (PM/Dev/Marketing/QA) via Redis Message Bus. Recursive CEO-QA self-correction loop with GitHub PR automation.
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AbdulahadIltaf)
+[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](#)
+
+`LangGraph` `Redis` `Groq` `CrewAI`
+
+</td>
+<td align="center" width="33%">
+
+**🛡️ KingsGuard**
+Multi-Agent Security Framework
+
+5-layer defense: BERT intent screening → VAE anomaly detection → PCA tracing → Bayesian monitoring → sandboxed execution. Prevents prompt injections in agentic systems.
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AbdulahadIltaf)
+[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](#)
+
+`BERT` `VAE` `Bayesian` `CrewAI`
+
+</td>
+<td align="center" width="33%">
+
+**🛰️ Crop Classification**
+Geospatial ML Pipeline
+
+End-to-end GEE pipeline extracting multispectral features from Sentinel-2 imagery. Live crop status prediction with PyTorch. Dataset published publicly on Kaggle.
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AbdulahadIltaf)
+[![Kaggle](https://img.shields.io/badge/Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#)
+
+`GEE` `Sentinel-2` `PyTorch` `Kaggle`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+## 🧬 Technical Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/abdulahad-iltaf79">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://huggingface.co/Abdulahad79">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-
-  <a href="mailto:iltafabdulahad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```
+╔─────────────────────────────────────────────────────────────────────╗
+║  LAYER                   TECHNOLOGIES                               ║
+╠─────────────────────────────────────────────────────────────────────╣
+║  🤖  Agents & MAS      │ LangGraph · CrewAI · AutoGen · MAS        ║
+║  🧠  GenAI & LLMs      │ GPT-4 · LLaMA 3 · Mistral · vLLM         ║
+║  🔗  RAG & Memory      │ GraphRAG · Neo4j · ChromaDB · Redis       ║
+║  🎛️  Fine-tuning       │ LoRA · QLoRA · GGUF · AWQ · Ollama       ║
+║  🔬  Deep Learning     │ PyTorch · TensorFlow · Transformers       ║
+║  👁️  Computer Vision   │ ViT · BERT · CNNs · GANs · Diffusion     ║
+║  🌍  Geospatial        │ Google Earth Engine · Sentinel-2          ║
+║  ☁️  MLOps & Cloud     │ Docker · K8s · Jenkins · MLflow · Azure   ║
+║  🖥️  Backend           │ FastAPI · Flask · Node.js · WebSockets    ║
+║  🗄️  Data              │ PostgreSQL · Neo4j · ChromaDB · SQL       ║
+║  💻  Languages         │ Python ████████████ · C++ ██████         ║
+╚─────────────────────────────────────────────────────────────────────╝
+```
 
 ---
 
-<p align="center">
-Building AI systems that bridge research and real-world deployment.
-</p>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulahadIltaf&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulahadIltaf&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulahadIltaf&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 📜 Certifications & Learning
+
+| Certification | Platform |
+|:---|:---|
+| Building Database Agents | DeepLearning.AI |
+| LLM App Development | DeepLearning.AI |
+| Quantization Fundamentals | Hugging Face |
+| Open Source Models with HF | Hugging Face |
+| Attention in Transformers (PyTorch) | DeepLearning.AI |
+| LangChain: Chat with Data | DeepLearning.AI |
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Bridging academic research and production systems."   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdulahadIltaf.AbdulahadIltaf&color=58a6ff)
+
+</div>
